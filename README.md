@@ -90,7 +90,7 @@ The website will be available at [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** React, Vite, Axios, Context API, CSS Variables.
 - **Backend:** Node.js, Express, Mongoose.
 - **Database:** MongoDB.
