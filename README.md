@@ -2,7 +2,7 @@
 
 ShopEase is a modern ecommerce platform built with the MERN stack (MongoDB, Express, React, Node.js). It features a sleek dark-themed UI, role-based access control, secure payments via Stripe, and a comprehensive seller dashboard.
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to get the project running on your local machine.
 
@@ -71,7 +71,7 @@ The website will be available at [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## 🔑 Demo Accounts
+## Demo Accounts
 | Role | Email | Password |
 | :--- | :--- | :--- |
 | **Shopper** | `user@demo.com` | `demo123` |
@@ -79,7 +79,7 @@ The website will be available at [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## ✨ Features
+## Features
 - **Modern UI:** Glassmorphism design with smooth animations.
 - **Authentication:** Secure JWT-based auth with HTTP-only cookies.
 - **Shopping Cart:** Persistent cart management.
